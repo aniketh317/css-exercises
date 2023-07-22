@@ -1,0 +1,19 @@
+p{
+    background-color: #f90db2f0;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+.cll#two{
+    color: blue;
+    font-size: 36px;
+}
+
+p#thr{
+    font-size: 24px;
+}
+
+div#fou{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
