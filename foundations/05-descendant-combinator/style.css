@@ -4,3 +4,10 @@
     font-size: 20px;
     text-align: center;
 }
+
+*{
+    outline: 1px dotted red;
+    margin: 5px;
+    border: 0px solid black;
+    padding: 10px;
+}
